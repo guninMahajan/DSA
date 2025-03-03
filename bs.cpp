@@ -29,5 +29,9 @@ int main(){
     if(binarySearch(arr,n,target,0,n-1)==-1) cout<<"element not found"<<endl;
     else cout<<"element found at index : "<<binarySearch(arr,n,target,0,n-1);
  
+
+hello new
+    
+    cout<<"enter size: "<<endl;
     return 0;
 }
